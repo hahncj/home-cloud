@@ -1,0 +1,7 @@
+brew "ansible"
+brew "kubernetes-cli"
+brew "helm"
+brew "fluxcd/tap/flux"
+brew "sops"
+brew "age"
+cask "raspberry-pi-imager"
